@@ -1,0 +1,5 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_url
+101,Downtown Station,37.7749,-122.4194,1,http://metroagency.com/downtown
+102,Uptown Station,37.775,-122.4195,1,http://metroagency.com/uptown
+103,East Side Station,34.0522,-118.2437,2,http://metroagency.com/eastside
+104,West Side Station,34.0523,-118.2438,2,http://metroagency.com/westside

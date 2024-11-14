@@ -1,0 +1,5 @@
+trip_id,route_id,service_id,trip_headsign,direction_id,block_id,shape_id
+1,1,1,Downtown to Uptown,0,101,1
+2,2,1,Uptown to Downtown,1,102,2
+3,1,2,East Side to West Side,0,103,1
+4,2,2,West Side to East Side,1,104,2
